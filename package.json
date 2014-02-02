@@ -8,6 +8,6 @@
         "karma-junit-reporter": "~0.1",
         "karma-jasmine": "~0.1",
         "karma-ng-scenario": "~0.1",
-        "less": "*"
+        "less": "~1.6"
     }
 }

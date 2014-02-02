@@ -2,7 +2,8 @@
     "name": "wp-ng",
     "version": "0.1.0",
     "dependencies": {
-        "jquery": "*",
-        "bootstrap": "*"
+        "jquery": "2.1.0",
+        "bootstrap": "3.1.0",
+        "less": "1.6.2"
     }
 }
