@@ -8,4 +8,4 @@ Wordpress JSON API
 
 Install Wordpress JSON API plugin into an existing Wordpress site.
 
- ## WORK IN PROGRESS
+## WORK IN PROGRESS
